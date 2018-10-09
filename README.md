@@ -14,9 +14,9 @@ A functional recreation of the front-end of the jonchretien.com website
 Technologies and Tools Used:
 
 |**Languages**|
-|:-----------:|
-| CSS         |
-| HTML        |
+|:----------------:|
+| CSS              |
+| HTML             |
 
 |**Tools**|
 |:----------------:|
@@ -70,6 +70,9 @@ Technologies and Tools Used:
         - Logged changes in the Readme
         - Better aligned grid elements for responsiveness
 
+### Live Link
+
+View Live Site Here: https://evanryk.github.io/project-2-jonchretien/index.html
 
 ## Contributors
 
