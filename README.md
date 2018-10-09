@@ -69,6 +69,7 @@ Technologies and Tools Used:
 
         - Logged changes in the Readme
         - Better aligned grid elements for responsiveness
+        - Fixed padding issue
 
 ### Live Link
 

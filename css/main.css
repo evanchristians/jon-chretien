@@ -15,7 +15,7 @@ body {
     color: rgb(214, 214, 214);
 }
 section {
-    padding: 50px auto;
+    padding-bottom: 50px;
 }
 hr {
     display: block;
@@ -292,9 +292,6 @@ footer div {
         max-height: 40vw;
         min-height: 33vw;
         height: 100%;
-    }
-    .grid-container .grid-blurb {
-        /* height: 100%; */
     }
 
     .grid-container .grid-item:nth-child(1) {
