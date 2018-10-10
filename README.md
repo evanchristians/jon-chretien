@@ -73,7 +73,7 @@ Technologies and Tools Used:
 
 ### Live Link
 
-View Live Site Here: https://evanryk.github.io/project-2-jonchretien/index.html
+View Live Site Here: https://evanryk.github.io/jonchretien/index.html
 
 ## Contributors
 
