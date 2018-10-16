@@ -9,6 +9,23 @@ A functional recreation of the front-end of the jonchretien.com website
 - CSS:
     To recreate all of the intricacies in the jonchretien.com website's design.
 
+## Getting Started
+
+- Create your *Github Repository* with a `README.MD`
+
+- Create a local clone of your *Repository*
+
+- Within the local repo create the project folder's base structure:
+
+```
+project-folder >
+        img
+        css >
+                main.css
+        index.html
+```
+- Update the `README.MD` and push the changes.
+
 ### Other Technologies Used
 
 Technologies and Tools Used:
@@ -74,9 +91,11 @@ Technologies and Tools Used:
 *16-10-2018* : Responsiveness Finalized
 
         - Logged changes in the Readme
+        - Added "Getting Started" section in the Readme
         - Rebuild Markup To use Images instead of Background Images in the CSS
         - Added Responsiveness For Mobile
         - Fixed Global Responsiveness Issues
+        - Added Clear Comments
 
 
 ### Live Link
