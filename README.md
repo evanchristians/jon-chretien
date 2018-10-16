@@ -71,6 +71,14 @@ Technologies and Tools Used:
         - Better aligned grid elements for responsiveness
         - Fixed padding issue
 
+*16-10-2018* : Responsiveness Finalized
+
+        - Logged changes in the Readme
+        - Rebuild Markup To use Images instead of Background Images in the CSS
+        - Added Responsiveness For Mobile
+        - Fixed Global Responsiveness Issues
+
+
 ### Live Link
 
 View Live Site Here: https://evanryk.github.io/jonchretien/index.html
