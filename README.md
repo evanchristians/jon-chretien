@@ -1,4 +1,4 @@
-# Project 2 - jonchretien
+# Project 2 - jon-chretien
 
 A functional recreation of the front-end of the jonchretien.com website
 
@@ -100,7 +100,7 @@ Technologies and Tools Used:
 
 ### Live Link
 
-View Live Site Here: https://evanryk.github.io/jonchretien/index.html
+View Live Site Here: https://evanryk.github.io/jon-chretien/index.html
 
 ## Contributors
 
