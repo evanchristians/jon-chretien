@@ -1,4 +1,4 @@
-# Project 2 - jon-chretien
+# jon-chretien
 
 A functional recreation of the front-end of the jonchretien.com website
 
