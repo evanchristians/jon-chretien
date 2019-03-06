@@ -100,7 +100,7 @@ Technologies and Tools Used:
 
 ### Live Link
 
-View Live Site Here: https://evanryk.github.io/jon-chretien/index.html
+View Live Site Here: https://evanchristians.github.io/jon-chretien/index.html
 
 ## Contributors
 
